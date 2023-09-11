@@ -6,8 +6,8 @@ Desenvolvido por Ivan Barbosa.<br>
 </p>
 
 <div align="center" >
-  <img alt="License" src="./CAPAS//Captura de Tela 2023-09-11 às 10.55.55.png" width="70%" display="flex" gap="5px" >
-  <img alt="License" src="./CAPAS//Captura de Tela 2023-09-11 às 10.56.16.png" width="70%" display="flex" gap="5px" >
+  <img style="border: 1px solid #00008B;" alt="License" src="./CAPAS//Captura de Tela 2023-09-11 às 10.55.55.png" width="70%" display="flex" gap="5px" >
+  <img style="border: 1px solid #00008B;" alt="License" src="./CAPAS//Captura de Tela 2023-09-11 às 10.56.16.png" width="70%" display="flex" gap="5px" >
 </div>
 
 <br>
@@ -30,11 +30,11 @@ Consultando uma API meteorológica, podemos verificar como esta o tempo atual e 
 
 ## 💻 Clone e acesse o projeto
 ------------
-    `https://github.com/ivanbs14/App_memory.git`
+    `https://github.com/ivanbs14/App_Clima.git`
 
     or 
 
-    `gh repo clone ivanbs14/App_memory`
+    `gh repo clone ivanbs14/App_Clima`
 
 ## 💻 Configurar e executar cliente
 
